@@ -204,7 +204,7 @@ https://github.com/user-attachments/assets/9e5ee458-589e-49cf-acb9-7b614573409b
 ## Technical details:
 
 
-https://github.com/user-attachments/assets/661ee532-10ff-4bcd-8282-2ce4f4a96ac8
+
 
 
 The random() function is used to create random values.

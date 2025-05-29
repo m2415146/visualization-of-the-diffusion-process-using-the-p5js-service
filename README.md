@@ -8,6 +8,8 @@ This code visualizes the diffusion process between two substances, represented a
 
 <img width="408" alt="Снимок экрана 2025-05-29 в 09 28 50" src="https://github.com/user-attachments/assets/afb925aa-7f8e-426c-968e-43ed25831c3a" />
 
+[link to p5js (fullscreen)](https://editor.p5js.org/sinitsyndanko/full/BVa4nppL4)
+
 
 ## Description:
 
